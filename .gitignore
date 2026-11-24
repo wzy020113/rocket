@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.build-autoupdate/
+.pyinstaller-cache/
+.update-server-stop
+.update-server-runtime/
+release-builds/
+update-feed/
+receivers.json
+receiver-settings.json
+.xiaorocket-resume/
+*.part
+*.previous
+*.update.log
+vendor/**/__pycache__/
+vendor/**/.DS_Store
